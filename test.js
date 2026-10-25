@@ -18,3 +18,5 @@ for (const file of tests) {
 }
 
 console.log('All automated tests passed.');
+
+// tests
